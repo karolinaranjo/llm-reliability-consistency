@@ -1,4 +1,5 @@
-# LLM Reliability and Consistency Foundational Papers
+# LLM Reliability & Consistency 
+Foundational Papers
 
 ![Reliability](https://img.shields.io/badge/-Reliability-orange)
 ![Consistency](https://img.shields.io/badge/-Consistency-blue)
