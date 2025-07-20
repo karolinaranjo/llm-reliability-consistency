@@ -6,25 +6,17 @@
 ![Data](https://img.shields.io/badge/Data-Benchmarks-purple)
 ![Type](https://img.shields.io/badge/Type-Literature%20Review-lightblue)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ---
+** Curated by:** [Dane Williamson](https://github.com/dwil2444) & [Karolina Naranjo](https://github.com/karolinaranjo)
+** Lab:** [UVA Information and Language Processing Lab](https://github.com/UVa-NLP)
 
-## Credits
-- [Dane Williamson](https://github.com/dwil2444) & [Karolina Naranjo](https://github.com/karolinaranjo)
 
-<sub> UVA [Information and Language Processing (ILP) Lab](https://github.com/UVa-NLP) </sub> 
+
+
+
+
+
+
+
+
+
