@@ -1,4 +1,4 @@
-# Curated Literature: LLM Reliability and Consistency
+LLM Reliability and Consistency Foundational Papers
 
 <!-- Main focus areas -->
 ![Reliability](https://img.shields.io/badge/-Reliability-orange)
